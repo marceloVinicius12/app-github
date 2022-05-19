@@ -1,2 +1,37 @@
 # app-github
  
+usando a api do guto 
+{
+  "login": "gutoffline",
+  "id": 3011150,
+  "node_id": "MDQ6VXNlcjMwMTExNTA=",
+  "avatar_url": "https://avatars.githubusercontent.com/u/3011150?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gutoffline",
+  "html_url": "https://github.com/gutoffline",
+  "followers_url": "https://api.github.com/users/gutoffline/followers",
+  "following_url": "https://api.github.com/users/gutoffline/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gutoffline/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gutoffline/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gutoffline/subscriptions",
+  "organizations_url": "https://api.github.com/users/gutoffline/orgs",
+  "repos_url": "https://api.github.com/users/gutoffline/repos",
+  "events_url": "https://api.github.com/users/gutoffline/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gutoffline/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "Guto Xavier",
+  "company": "Senac Americana",
+  "blog": "https://medium.com/gutoffline",
+  "location": "Brazil",
+  "email": null,
+  "hireable": null,
+  "bio": null,
+  "twitter_username": "gutoffline",
+  "public_repos": 91,
+  "public_gists": 0,
+  "followers": 70,
+  "following": 59,
+  "created_at": "2012-12-10T21:34:38Z",
+  "updated_at": "2022-03-25T20:16:40Z"
+}
